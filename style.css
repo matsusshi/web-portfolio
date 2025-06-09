@@ -1,0 +1,23 @@
+body {
+  font-family: "Alumni Sans SC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.name-highlight {
+  color: orange; /* Tomato color */
+}
+
+.intro {
+  width: 40%;
+  float: left;
+  margin : 5%;
+}
+.intro img{
+  width: 90%;
+}
