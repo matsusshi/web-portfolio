@@ -3,6 +3,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: italic;
+  margin: 0%;
 }
 
 h1{
@@ -19,5 +20,22 @@ h1{
   margin : 5%;
 }
 .intro img{
-  width: 90%;
+  width: 90%; 
+}
+
+.background {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+section{
+  height: 500px;
+}
+
+.link-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-image: linear-gradient(to left, #ff7e5f, #feb47b); 
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
 }
